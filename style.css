@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    margin 0;
+    background-color: #0e2c40;
+}
+
+.navbar {
+    display: flex; 
+    justify-content: space-between;
+    align-items
+    background-color #333;
+    color: white 
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: boald;
+    color: whitesmoke;
+    text-decoration: none;
+
+}
+
+.nav-links {
+    color: white
+}
+
+.logo {
+
+}
